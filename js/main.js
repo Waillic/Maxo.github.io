@@ -354,7 +354,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   /**
-   * 滾動處理
+   * 滚动处理
    */
   const scrollFn = () => {
     const $rightside = document.getElementById('rightside')
